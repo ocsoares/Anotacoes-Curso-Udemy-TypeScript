@@ -1,5 +1,5 @@
 // Transforma uma FUNÇÃO em uma PROPRIEDADE da Classe, logo, NÃO precisa do () no final !! <<
-// OBS: Os getters APENAS LEEM dados !! <<
+// OBS: Os getters NÃO podem ter Parâmetros e APENAS LEEM dados !! <<
 
 class GettersClass {
     name;

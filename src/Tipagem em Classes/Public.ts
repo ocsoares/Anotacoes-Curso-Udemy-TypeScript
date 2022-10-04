@@ -1,0 +1,1 @@
+// A visibilidade public é a PADRÃO (default), em que QUALQUER Método ou Propriedade da Classe Pai estará Disponível na Classe Filha !! <<
